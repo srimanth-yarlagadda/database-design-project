@@ -1,0 +1,17 @@
+INSERT INTO wonder_library.employee (PERSON_ID, START_DATE, DESIGNATION) VALUES
+('P163', '2020-04-12', 'CATALOGING MANAGER'),
+('P162', '2022-04-24', 'LIBRARY SUPERVISOR'),
+('P161', '2020-2-2', 'RECEPTIONIST'),
+('P158', '2020-01-01', 'RECEPTIONIST');
+
+
+INSERT INTO wonder_library.member (PERSON_ID, CARD_ID) VALUES
+('P159', '2120'),
+('P160', '2109'),
+('P155', '2103'),
+('P156', '2122'),
+('P157', '2130'),
+('P154', '2124'),
+('P152', '2214'),
+('P153', '2216'),
+('P150', '2102');
