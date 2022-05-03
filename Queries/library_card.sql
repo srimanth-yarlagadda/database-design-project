@@ -1,4 +1,4 @@
-INSERT INTO wonder_library.library_card (card_id, date_of_issue, MEMBERSHIP_LEVEL) VALUES
+INSERT INTO LIBRARY_CARD (card_id, date_of_issue, MEMBERSHIP_LEVEL) VALUES
 ('2120', '2018-05-04', 'GOLD'),
 ('2109', '2019-06-17', 'GOLD'),
 ('2103', '2019-05-19', 'GOLD'),

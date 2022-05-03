@@ -5,7 +5,7 @@ INSERT INTO wonder_library.employee (PERSON_ID, START_DATE, DESIGNATION) VALUES
 ('P158', '2020-01-01', 'RECEPTIONIST');
 
 
-INSERT INTO wonder_library.member (PERSON_ID, CARD_ID) VALUES
+INSERT INTO MEMBER (PERSON_ID, CARD_ID) VALUES
 ('P159', '2120'),
 ('P160', '2109'),
 ('P155', '2103'),
@@ -14,4 +14,6 @@ INSERT INTO wonder_library.member (PERSON_ID, CARD_ID) VALUES
 ('P154', '2124'),
 ('P152', '2214'),
 ('P153', '2216'),
+('P158', '2129'),
+('P161', '2128'),
 ('P150', '2102');
